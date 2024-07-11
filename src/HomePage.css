@@ -1,0 +1,18 @@
+.homepage{
+    display: flex;
+    flex-direction: row;
+}
+
+.homepage_nav{
+    flex: 0.2;
+    position: relative;
+}
+
+.homepage__timeline {
+    flex: 0.8;
+}
+
+.head{
+    flex-direction: column;
+    display: flex;
+}
